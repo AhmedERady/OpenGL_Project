@@ -1,7 +1,9 @@
-# Graphics
+# Info
+An OpenGL based endless runner game for the year 3 Graphics course
+Engine based on modular OOP design
+Structure based on Unity3D & UE fundamentals
 
 ## Automatic Setup
-
 1. Download https://desktop.github.com/
 2. Login
 3. Clone "Graphics" repo in a folder on your computer - this will download the project
