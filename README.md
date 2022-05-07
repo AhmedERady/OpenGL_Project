@@ -1,6 +1,8 @@
 # Info
-An OpenGL based endless runner game for the year 3 Graphics course\n
+An OpenGL based endless runner game for the year 3 Graphics course
+
 Engine based on modular OOP design
+
 Structure based on Unity3D & UE fundamentals
 
 ## Automatic Setup
