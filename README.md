@@ -1,5 +1,5 @@
 # Info
-An OpenGL based endless runner game for the year 3 Graphics course
+An OpenGL based endless runner game for a Graphics course
 
 Engine based on modular OOP design
 
